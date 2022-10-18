@@ -14,4 +14,4 @@
 
 ## nohe
 
-## additinal edition in web
+## additional edition in web
